@@ -6,7 +6,7 @@ body{
 }
 .first-container{
 	background-color: black;
-	width: 100%;
+	width: 110%;
 	border:3px purple;
 	margin-bottom: 30px;
 }
@@ -119,7 +119,7 @@ border:1px green;
 }
 .sixth-container{
 	background-color: black;
-	width:100%;
+	width:110%;
 	
 	padding: 15px;
  margin-left: 0px;
