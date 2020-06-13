@@ -12,8 +12,7 @@ myimages[8]="photo12.jpg"
 myimages[9]="photo13.jpg"
 myimages[10]="photo14.jpg"
 myimages[11]="photo15.jpg"
-myimages[12]="photo1.jppg"
-myimages[13]="photo2.jpg"
+
 var names=new Array();
 names[1]="BEEF"
 names[2]="HIMA-SHU"
@@ -26,8 +25,7 @@ names[8]="HA-FI-KA"
 names[9]="EGG-DISH"
 names[10]="SPECIAL-EGG-DISH"
 names[11]="VEG-PASTA"
-names[12]="CHI-KI-MA"
-names[13]="KI-SU-NA"
+
 
 
 var rnd=Math.floor(Math.random()*myimages.length);
