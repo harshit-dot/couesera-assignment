@@ -6,7 +6,7 @@ body{
 }
 .first-container{
 	background-color: black;
-	width: 110%;
+	width: 100%;
 	border:3px purple;
 	margin-bottom: 30px;
 }
